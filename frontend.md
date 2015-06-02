@@ -54,7 +54,7 @@ theme: moon
 [slide]
 ####有时候，会耍点小聪明
 ----
-<iframe data-src="http://jsbin.com/sogehi/4/edit?html,css,output" src="about:blank;"></iframe>
+<iframe data-src="http://jsbin.com/sogehi/5/edit?html,css,output" src="about:blank;"></iframe>
 
 [slide]
 
