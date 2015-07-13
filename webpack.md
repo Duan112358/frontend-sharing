@@ -177,3 +177,9 @@ AMD的产生源自于CommonJS的非异步,它定义了模块的异步加载规�
 *  [webpack is awesome](https://unindented.github.io/webpack-presentation/#/)
 *  [manage front-end with webpack](http://peerigon.github.io/presentations/2014-07-09-MNUG-webpack/#1)
 
+[slide]
+
+### Q & A
+-------
+[Source Code](https://github.com/Duan112358/frontend-sharing)
+
