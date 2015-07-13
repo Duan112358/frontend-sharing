@@ -32,8 +32,8 @@ theme: moon
 
 *  `<script>` 罗列标签  {:&.fadeIn}
 *  CommonJs -> nodejs, browserify, webpack
-*  AMD -> seajs
-*  CMD -> requirejs, webpack
+*  CMD -> seajs
+*  AMD -> requirejs, webpack
 
 [slide]
 ##  罗列标签  
